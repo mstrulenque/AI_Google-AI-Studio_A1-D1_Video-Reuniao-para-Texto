@@ -100,6 +100,6 @@ agora faça um texto detalhado sobre o passo a passo do github copilot usando co
 2.7 - `Resultado do Prompt - (3)`
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-<img width="548" alt="image" src="https://github.com/mstrulenque/AI_Google-AI-Studio_A1-D1_Video-Reuniao-para-Texto/assets/63933792/d1d53a3f-928b-42dd-a0ca-69195210c414">
+<img width="548" alt="image" src="https://github.com/mstrulenque/AI_Google-AI-Studio_A1-D1_Video-Reuniao-para-Texto/assets/63933792/48a6f0f4-4245-4ee4-96df-d86b481f3246">
 
 
